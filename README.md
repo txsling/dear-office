@@ -14,4 +14,4 @@ On most of the report pages in the game, there will be a row of page navigation 
 The game is complete when you have reached the end page. There is one optimal ending and four less optimal endings.
 
 ## Further information
-For more information about this game, visit https://txsling.com. 
+For more information about this game, visit https://txsling.com/dear-office/. 
