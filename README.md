@@ -1,4 +1,4 @@
-# Dear Office
+# *Dear Office*
 *Dear Office* is a short interactive fiction game implemented in Power BI. It should take around 20 minutes to complete. 
 
 ## How to run the game
